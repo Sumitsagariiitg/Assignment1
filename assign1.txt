@@ -1,0 +1,65 @@
+#COMPUTER BASICS
+
+1. A computer is an electronic device that stores and process data, often in binary form, in accordance with commands from a variable program.
+
+2. RAM stands for Random Access Memory  is a form of compuer memory that can be read and changed in order, used to store data and machine code.
+
+3. Data is stored in memory elements of the computer like RAM, SSD, HDD, magnetic tape etc..
+
+4. Keyboard
+
+5. Output devices - Monitor, Printer, Speaker...
+
+6. Mouse
+
+7. Machine Level Language that is 0's and 1's which is a low level language is understood by the computer.
+ 
+8. Input devices are keyboard, mouse, scanner...
+
+
+#FUNDAMENTALS OF JAVA
+
+
+1. Programming language is the language that computer understands. It is a set of instructions used to make our computer understand. Java is a high level langauage.
+
+2. To make understand to computer and accordingly do the work, we need programming language because computer does not understand human language. There is a need of a language that understand computer. Computer only understands machine level language that is 0's and 1's. So we need a language that communicates with the computer.
+
+3. Features of Java -
+
+	i.    Platform Independent
+	ii.   Portable
+	iii.  Object Oriented Programming
+	iv.   Robust
+	v.    WORA(Write Once Run Anywhere)
+
+4. Object ia an entity with state and behaviour.
+
+5. A class is a collection of objects that have similar traits, behaviours and attributes.
+
+6. Main Method - public static void main(String [] args
+	a. public - It ensures that it can be accessed from anywhere.
+	b. static - It ensures that it can be called by JVM(java virtual machine) without creating a object of 	            main class.
+	c. Void - It states that the method main() does not return anything.
+	d. main - It is the default name mentiond in java.
+	e. String [] args - It is used to collect the arguments passed by the user through command line while          	                    runnig the program.
+
+#JAVA VARIABLES AND DATA TYPES.
+
+1. Statically Typed programming language - Programming languages in which we have to specify the types of data 	a variable is storing.
+	ex - C, C++, JAVA...
+   Dynamically Typed programming language - Programing languages in which there is no need of specifying the 	data types.
+	ex- PYTHON, JavaScript...
+
+2. Variables are the name of the locations given that stores data in memory. It is simply the name of the 	memory location.
+
+3. We use (=) operator to assign Values to a variable .
+	ex- int a = 12;
+
+4. Primitive datatypes are byte, short, int, long, float, double, char, boolean.
+
+5. Identifiers are the name given in a java program. It may be a class name, variable name and label name.
+
+6. Operators in java : Arithematic, Relational, Logical, Assignment, Unary, Bitwise operator....
+
+7. Increment operator(++) just increases the value by 1 ( i = i + 1 )where as the decrement operator is used to decrease the value by 1 (i = i - 1).
+
