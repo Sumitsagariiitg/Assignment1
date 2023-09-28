@@ -1,0 +1,48 @@
+#OPERATORS AND LOOP
+
+1. Conditional Operators in java are those operators that checks some conditions before execution. There are three types of conditional operator - AND operator(&&), OR operator(||) and Ternary Operator(? :).
+
+2. There are three types of operator based on the number of the operator 
+	a. Unary operator
+	b. Binary operator
+	c. Ternary operator
+
+3. Switch case in java programming is used for selecting one particular statement out of many statements ro execute. There is a use of Break keyword that ensure that only one required statement get executed and then it come out of the whole part.
+
+4. The priority levels of the arithematic operations in java-
+	Higher priority - (* / %)
+	Lower priority = (+ -)
+
+5. Conditional statements are those statements that execute if the condition is true otherwise fails to execute that statement. In if-else condition if the statement is true then it will execute the statement written in if condition else execute the statement written in else part.
+
+6. The syntax of if - else statement is -
+
+	if( condition){
+		//statement to execute
+				}
+	else{
+		//statement to execute
+				}
+
+7. The three type of iterative statements in java are
+	a. for loop
+	b. while loop
+	c. do while loop
+
+8. Difference between while loop and do while loop are-
+	i. In while loop statements are executed after condition is checked whereas in do-while loop firstly 	  	   statements are execute then condition is checked.
+	ii. While loop may run for zero times but do-while loop has to execute atleast one time.
+
+9. Program to print numbers from 1 to 10.
+
+	public class number {
+    			public static void main(String[] args)
+    			{
+        			System.out.println("Printing Number from 1 to 10");
+
+        			for (int i = 1; i <= 10; i++)
+        				{
+            					System.out.println(i);
+        				}
+   			 }
+	}
